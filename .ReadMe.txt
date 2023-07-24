@@ -1,0 +1,1 @@
+to test use : mvn clean package -Dquarkus:uber-jar -DskipTests insteadof : mvn package -Dquarkus.package.type=uber-jar -DskipTests

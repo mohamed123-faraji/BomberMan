@@ -1,0 +1,16 @@
+
+
+# Ignore frontend build artifacts
+frontend.jar
+
+# Ignore YAML files
+*.yaml
+*.yml
+
+# Ignore resource files
+/src/main/resources/
+
+
+# Ignore frontend build artifacts
+front-end.jar
+
